@@ -294,6 +294,13 @@ const forbiddenTitles = [
   "You're My Boss",
   "Zsazsa Zaturnnah Ze Moveeh",
   "Love Child",
+  "Sunday Beauty Queen",
+  "Ikaw At Ako",
+  "Wild and Free",
+  "This Time I'll Be Sweeter",
+  "Red Ollero: Mabuhay Is A Lie",
+  "Always Be My Maybe",
+  "Wedded, Worried, Wearied"
 ];
 
 const forbiddenGenres = [
